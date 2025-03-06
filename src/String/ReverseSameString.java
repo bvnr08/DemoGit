@@ -24,6 +24,11 @@ public class ReverseSameString {
 			
 		}
 		System.out.println(sub);
+		
+		System.out.println("narasimha changes");
+		System.out.println("narasimha changes");
+		System.out.println("narasimha changes");
+		System.out.println("narasimha changes");
 
 	}
 
